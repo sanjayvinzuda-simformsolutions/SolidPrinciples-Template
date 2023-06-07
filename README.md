@@ -1,8 +1,10 @@
 # SolidPrinciples-Template
 
-SOLID design principles help resolve these issues by decoupling software programs. Robert C. Martin introduced these concepts in his paper titled Design Principles and Design Patterns, and Michael Feathers came up with the acronym later.
+SOLID design principles help resolve the issues by decoupling software programs.
+Robert C. Martin introduced these concepts in his paper titled **Design Principles and Design Patterns**, and 
+Michael Feathers came up with the acronym later.
 
-  The SOLID design principle includes these five principles:
+  The **SOLID** design principle includes these five principles:
 
 1. Single Responsibility Principle
 2. Open/Closed Principle
